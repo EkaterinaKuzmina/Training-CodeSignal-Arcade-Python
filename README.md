@@ -14,3 +14,4 @@
 13. 
 14.
 15. 
+48. [isDigit](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/48.isDigit.py)
