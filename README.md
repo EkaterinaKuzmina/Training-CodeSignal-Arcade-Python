@@ -9,3 +9,8 @@
 8. [matrixElementsSum](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/8.matrixElementsSum.py)
 9. [allLongestStrings](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/9.allLongestStrings.py)
 10. [commonCharacterCount](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/10.commonCharacterCount.py)
+11. 
+12.
+13. 
+14.
+15. 
