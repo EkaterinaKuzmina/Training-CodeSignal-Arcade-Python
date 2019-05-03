@@ -28,7 +28,7 @@
 27. 
 28. 
 29. 
-30. 
+30. [circleOfNumbers](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/30.circleOfNumbers.py)
 31. 
 32. 
 33. 
