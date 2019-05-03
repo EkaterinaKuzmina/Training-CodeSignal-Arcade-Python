@@ -47,3 +47,9 @@
 46. 
 47. 
 48. [isDigit](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/48.isDigit.py)
+49. 
+50. 
+51.
+52. 
+53. 
+54. [sumUpNumbers](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/54.sumUpNumbers.py) 
