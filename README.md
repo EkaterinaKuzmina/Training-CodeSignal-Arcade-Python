@@ -29,7 +29,7 @@
 28. 
 29. 
 30. [circleOfNumbers](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/30.circleOfNumbers.py)
-31. 
+31. [depositProfit](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/31.depositProfit.py)
 32. 
 33. 
 34. 
