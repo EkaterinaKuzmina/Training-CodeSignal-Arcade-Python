@@ -1,9 +1,10 @@
 # CodeSignal Solutions
 
 ## [Arcade](#Arcade)
+1. [Intro](#Arcade-Intro)
 
 
-## Arcade
+## Arcade: Intro
 ## The Journey Begins
 1. [add](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/1.add.py)
 2. [centuryFromYear](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/2.centuryFromYear.py)
