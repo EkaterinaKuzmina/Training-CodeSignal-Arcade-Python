@@ -1,4 +1,4 @@
-# CodeSignal Solutions
+## CodeSignal Solutions
 
 ## Arcade
 - [Intro](#Arcade-Intro)
