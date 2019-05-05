@@ -7,7 +7,7 @@
 ### 4. [Python](#Arcade-Intro)
 ### 5. [Graphs](#Arcade-Intro)
 
-## [Other](#Other)
+## Other
 ### 1. [Challenges](#Arcade-Intro)
 ### 2. [Interview Practice](#Arcade-Intro)
 ### 3. [Company Challenges](#Arcade-Intro)
