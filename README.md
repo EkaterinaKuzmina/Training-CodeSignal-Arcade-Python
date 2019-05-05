@@ -7,6 +7,8 @@
 ### 4. [Python](#Arcade-Intro)
 ### 5. [Graphs](#Arcade-Intro)
 
+## [Challenges](#Challenges)
+
 ## Arcade: Intro
 ## The Journey Begins
 1. [add](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/1.add.py)
