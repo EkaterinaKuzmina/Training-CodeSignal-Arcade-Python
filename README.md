@@ -45,7 +45,7 @@
 36. 
 37. 
 ## Dark Wilderness
-38. 
+38. [growingPlant](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/growingPlant.py)
 39. 
 40. 
 41. 
