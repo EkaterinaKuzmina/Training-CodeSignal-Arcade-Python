@@ -1,7 +1,7 @@
 # CodeSignal Solutions
 
 ## [Arcade](#Arcade)
-1. [Intro](#Arcade-Intro)
+## 1. [Intro](#Arcade-Intro)
 
 
 ## Arcade: Intro
