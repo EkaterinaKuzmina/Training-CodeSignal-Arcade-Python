@@ -1,7 +1,5 @@
-<p align="center">
 ## CodeSignal Solutions
-</p>
-Normal
+
 ### Arcade
 ### 1. [Intro](#Arcade-Intro)
 ### 2. [Databases](#Arcade-Intro)
@@ -14,10 +12,8 @@ Normal
 ### 2. [Interview Practice](#Arcade-Intro)
 ### 3. [Company Challenges](#Arcade-Intro)
 
-<p align="center">
 ### Arcade: Intro
-</p>
-Normal
+
 ### The Journey Begins
 1. [add](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/1.add.py)
 2. [centuryFromYear](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/2.centuryFromYear.py)
