@@ -15,45 +15,53 @@
 11. [isLucky](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/11.isLucky.py)
 12.
 13. 
-
+## Exploring the Waters
 14.
 15. 
 16. 
 17. 
 18. 
+## Island of Knowledge
 19. 
 20. 
 21. 
 22. 
 23. 
 24. 
+## Rains of Reason
 25. 
 26. 
 27. 
 28. 
 29. 
+## Through the Fog
 30. [circleOfNumbers](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/30.circleOfNumbers.py)
 31. [depositProfit](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/31.depositProfit.py)
 32. 
 33. 
+## Diving Deeper
 34. 
 35. 
 36. 
 37. 
+## Dark Wilderness
 38. 
 39. 
 40. 
 41. 
 42. 
+## Eruption of Light
 43. 
 44. 
 45. 
 46. 
 47. 
+## Rainbow of Clarity
 48. [isDigit](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/48.isDigit.py)
 49. 
 50. 
 51.
+## Land of Logic
 52. 
 53. 
 54. [sumUpNumbers](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/54.sumUpNumbers.py) 
