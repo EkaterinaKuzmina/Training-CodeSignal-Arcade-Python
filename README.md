@@ -1,8 +1,11 @@
 # CodeSignal Solutions
 
-## [Arcade](#Arcade)
+## Arcade
 ## 1. [Intro](#Arcade-Intro)
-
+## 2. [Databases](#Arcade-Intro)
+## 3. [The Core](#Arcade-Intro)
+## 4. [Python](#Arcade-Intro)
+## 5. [Graphs](#Arcade-Intro)
 
 ## Arcade: Intro
 ## The Journey Begins
