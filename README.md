@@ -30,7 +30,7 @@
 10. [commonCharacterCount](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/10.commonCharacterCount.py)
 11. [isLucky](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/11.isLucky.py)
 12. [sortByHeight](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/sortByHeight.py)
-13. 
+13. [reverseInParentheses](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/reverseInParentheses.py)
 ### Exploring the Waters
 14.
 15. 
