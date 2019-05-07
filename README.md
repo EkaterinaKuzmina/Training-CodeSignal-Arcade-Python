@@ -36,7 +36,7 @@
 15. 
 16. 
 17. 
-18. 
+18. [palindromeRearranging](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/palindromeRearranging.py)
 ### Island of Knowledge
 19. 
 20. 
