@@ -32,7 +32,7 @@
 12. [sortByHeight](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/sortByHeight.py)
 13. [reverseInParentheses](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/reverseInParentheses.py)
 ### Exploring the Waters
-14.
+14. [alternatingSums](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/alternatingSums.py)
 15. 
 16. 
 17. 
