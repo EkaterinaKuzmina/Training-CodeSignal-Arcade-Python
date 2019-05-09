@@ -1,25 +1,25 @@
-# CodeSignal Solutions
+## CodeSignal Solutions
 
-# Arcade
-## - [Intro](#Arcade-Intro)
-## - [Databases](#Arcade-Intro)
-## - [The Core](#Arcade-Intro)
-## - [Python](#Arcade-Intro)
-## - [Graphs](#Arcade-Intro)
+## Arcade
+### - [Intro](#Arcade-Intro)
+### - [Databases](#Arcade-Intro)
+### - [The Core](#Arcade-Intro)
+### - [Python](#Arcade-Intro)
+### - [Graphs](#Arcade-Intro)
 
-# Other
-## - [Challenges](#Arcade-Intro)
-## - [Interview Practice](#Arcade-Intro)
-## - [Company Challenges](#Arcade-Intro)
+## Other
+### - [Challenges](#Arcade-Intro)
+### - [Interview Practice](#Arcade-Intro)
+### - [Company Challenges](#Arcade-Intro)
 
 
-## Arcade: Intro
+### Arcade: Intro
 
-### The Journey Begins
+#### The Journey Begins
 1. [add](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/1.add.py)
 2. [centuryFromYear](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/2.centuryFromYear.py)
 3. [checkPalindrome](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/3.checkPalindrome.py)
-### Edge of the Ocean
+#### Edge of the Ocean
 4. [adjacentElementsProduct](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/4.adjacentElementsProduct.py)
 5. [shapeArea](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/5.shapeArea.py)
 6. [makeArrayConsecutive2](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/6.makeArrayConsecutive2.py)
@@ -37,47 +37,47 @@
 16. 
 17. 
 18. [palindromeRearranging](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/palindromeRearranging.py)
-### Island of Knowledge
+#### Island of Knowledge
 19. [areEquallyStrong](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/areEquallyStrong.py)
 20. [arrayMaximalAdjacentDifference](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/arrayMaximalAdjacentDifference.py)
 21. [isIPv4Address](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/isIPv4Address.py)
 22. 
 23. 
 24. 
-### Rains of Reason
+#### Rains of Reason
 25. 
 26. 
 27. 
 28. 
 29. 
-### Through the Fog
+#### Through the Fog
 30. [circleOfNumbers](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/30.circleOfNumbers.py)
 31. [depositProfit](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/31.depositProfit.py)
 32. 
 33. 
-### Diving Deeper
+#### Diving Deeper
 34. 
 35. 
 36. 
 37. 
-### Dark Wilderness
+#### Dark Wilderness
 38. [growingPlant](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/growingPlant.py)
 39. 
 40. 
 41. 
 42. 
-### Eruption of Light
+#### Eruption of Light
 43. 
 44. 
 45. 
 46. 
 47. 
-### Rainbow of Clarity
+#### Rainbow of Clarity
 48. [isDigit](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/48.isDigit.py)
 49. 
 50. 
 51.
-### Land of Logic
+#### Land of Logic
 52. 
 53. 
 54. [sumUpNumbers](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/54.sumUpNumbers.py) 
