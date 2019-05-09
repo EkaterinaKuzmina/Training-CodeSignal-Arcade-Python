@@ -38,9 +38,9 @@
 17. 
 18. [palindromeRearranging](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/palindromeRearranging.py)
 ### Island of Knowledge
-19. 
-20. 
-21. 
+19. [areEquallyStrong](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/areEquallyStrong.py)
+20. [arrayMaximalAdjacentDifference](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/arrayMaximalAdjacentDifference.py)
+21. [isIPv4Address](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/isIPv4Address.py)
 22. 
 23. 
 24. 
