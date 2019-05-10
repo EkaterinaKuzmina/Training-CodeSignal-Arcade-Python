@@ -47,7 +47,7 @@
 #### Rains of Reason
 25. 
 26. 
-27. 
+27. [variableName](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/variableName.py)
 28. 
 29. 
 #### Through the Fog
