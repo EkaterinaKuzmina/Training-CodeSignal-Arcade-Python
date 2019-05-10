@@ -9,7 +9,7 @@
 ### Arcade: Intro
 
 #### The Journey Begins
-1. [add](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/1.add.py); 2. [centuryFromYear](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/2.centuryFromYear.py); 3. [checkPalindrome](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/3.checkPalindrome.py)
+[add](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/1.add.py) • [centuryFromYear](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/2.centuryFromYear.py) • [checkPalindrome](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/3.checkPalindrome.py)
 #### Edge of the Ocean
 4. [adjacentElementsProduct](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/4.adjacentElementsProduct.py)  5. [shapeArea](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/5.shapeArea.py)  6. [makeArrayConsecutive2](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/6.makeArrayConsecutive2.py)  7.   8. [matrixElementsSum](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/8.matrixElementsSum.py)
 #### Smooth Sailing
