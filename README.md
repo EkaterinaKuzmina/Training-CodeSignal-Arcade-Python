@@ -1,6 +1,6 @@
 ## CodeSignal Solutions
 
-## Arcade: [Intro](#Arcade-Intro) • [Databases](#Arcade-Intro) • [The Core](#Arcade-Intro) • [Python](#Arcade-Intro) • [Graphs](#Arcade-Intro)
+## Arcade: [Intro](#Arcade-Intro)  •  [Databases](#Arcade-Intro)  •  [The Core](#Arcade-Intro)  •  [Python](#Arcade-Intro)  •  [Graphs](#Arcade-Intro)
 
 ## Other: [Challenges](#Arcade-Intro) • [Interview Practice](#Arcade-Intro) • [Company Challenges](#Arcade-Intro)
 
