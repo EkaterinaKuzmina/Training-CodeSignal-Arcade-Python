@@ -20,7 +20,7 @@
 
 #### Through the Fog: [circleOfNumbers](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/30.circleOfNumbers.py)  • [depositProfit](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/31.depositProfit.py)
 
-#### Diving Deeper
+#### Diving Deeper: [extractEachKth](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/extractEachKth.py)
 
 #### Dark Wilderness: [growingPlant](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/growingPlant.py)
  
