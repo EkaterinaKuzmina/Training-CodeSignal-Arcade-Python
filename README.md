@@ -28,7 +28,7 @@
 23. 
 24. 
 #### Rains of Reason
- •  •  • [variableName](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/variableName.py) • [alphabeticShift](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/alphabeticShift.py)  • 
+[arrayReplace](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/arrayReplace.py) •  •  • [variableName](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/variableName.py) • [alphabeticShift](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/alphabeticShift.py)  • 
 #### Through the Fog
 30. [circleOfNumbers](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/30.circleOfNumbers.py)
 31. [depositProfit](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/31.depositProfit.py)
