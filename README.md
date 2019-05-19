@@ -32,5 +32,4 @@
 
 ## Arcade: Python
 
-#### Fumbling in Functional: [chessTeams](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Python/chessTeams.py) • [fixResult](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Python/fixResult.py)
-
+#### Fumbling in Functional: [chessTeams](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Python/chessTeams.py) • [fixResult](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Python/fixResult.py) • [collegeCourses](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Python/collegeCourses.py)
