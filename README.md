@@ -1,6 +1,6 @@
 ## CodeSignal Solutions
 
-## Arcade: [Intro](#Arcade-Intro)  •  [Databases](#Arcade-Intro)  •  [The Core](#Arcade-Intro)  •  [Python](#Arcade-Intro)  •  [Graphs](#Arcade-Intro)
+## Arcade: [Intro](### Arcade: Intro)  •  [Databases](#Arcade-Intro)  •  [The Core](#Arcade-Intro)  •  [Python](### Arcade: Python)  •  [Graphs](#Arcade-Intro)
 
 ## Other: [Challenges](#Arcade-Intro) • [Interview Practice](#Arcade-Intro) • [Company Challenges](#Arcade-Intro)
 
@@ -31,4 +31,6 @@
 #### Land of Logic: [sumUpNumbers](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/54.sumUpNumbers.py) 
 
 ### Arcade: Python
+
+#### Fumbling in Functional: [chessTeams](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Python/chessTeams.py)
 
