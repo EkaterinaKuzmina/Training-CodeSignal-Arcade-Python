@@ -1,10 +1,10 @@
-## CodeSignal Solutions
+# CodeSignal Solutions
 
-## Arcade: [Intro](#Arcade: Intro)  •  [Databases](#Arcade-Intro)  •  [The Core](#Arcade-Intro)  •  [Python](#Arcade: Python)  •  [Graphs](#Arcade-Intro)
+# Arcade: [Intro](#Arcade-Intro)  •  [Databases](#Arcade-Intro)  •  [The Core](#Arcade-Intro)  •  [Python](#Arcade-Python)  •  [Graphs](#Arcade-Intro)
 
-## Other: [Challenges](#Arcade-Intro) • [Interview Practice](#Arcade-Intro) • [Company Challenges](#Arcade-Intro)
+# Other: [Challenges](#Arcade-Intro) • [Interview Practice](#Arcade-Intro) • [Company Challenges](#Arcade-Intro)
 
-### Arcade: Intro
+## Arcade: Intro
 
 #### The Journey Begins: [add](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/1.add.py) • [centuryFromYear](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/2.centuryFromYear.py) • [checkPalindrome](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/3.checkPalindrome.py)
 
@@ -30,7 +30,7 @@
 
 #### Land of Logic: [sumUpNumbers](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/54.sumUpNumbers.py) 
 
-### Arcade: Python
+## Arcade: Python
 
 #### Fumbling in Functional: [chessTeams](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Python/chessTeams.py)
 
