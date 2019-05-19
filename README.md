@@ -29,3 +29,6 @@
 #### Rainbow of Clarity: [isDigit](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/48.isDigit.py)
 
 #### Land of Logic: [sumUpNumbers](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/54.sumUpNumbers.py) 
+
+### Arcade: Python
+
