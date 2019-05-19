@@ -18,7 +18,7 @@
 
 #### Rains of Reason: [arrayReplace](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/arrayReplace.py) • [variableName](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/variableName.py) • [alphabeticShift](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/alphabeticShift.py)
 
-#### Through the Fog: [circleOfNumbers](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/30.circleOfNumbers.py)  • [depositProfit](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/31.depositProfit.py)
+#### Through the Fog: [circleOfNumbers](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/30.circleOfNumbers.py) • [depositProfit](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/31.depositProfit.py)
 
 #### Diving Deeper: [extractEachKth](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Intro/extractEachKth.py)
 
@@ -32,5 +32,5 @@
 
 ## Arcade: Python
 
-#### Fumbling in Functional: [chessTeams](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Python/chessTeams.py)
+#### Fumbling in Functional: [chessTeams](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Python/chessTeams.py) • [fixResult](https://github.com/ekaterinakuzmina/CodeSignal-solutions/blob/master/Arcade/Python/fixResult.py)
 
